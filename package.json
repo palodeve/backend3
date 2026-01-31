@@ -1,0 +1,15 @@
+{
+  "name": "backend3-coder",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "bcrypt": "^5.1.1",
+    "express": "^4.22.1",
+    "mongoose": "^8.0.0"
+  }
+}
